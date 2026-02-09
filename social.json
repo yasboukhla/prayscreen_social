@@ -4,7 +4,7 @@
     "admob_ios_app_id": "ca-app-pub-6593799388491814~6631332460",
     "admob_ios_rewarded_ad_unit_id": "ca-app-pub-6593799388491814/5587103282",
     "analytics_locked": "true",
-    "show_premium_analytics_upsell": "true"
+    "show_premium_analytics_upsell": "true",
     "notifications_locked": "true",
     "show_premium_notifications_upsell": "true"
 }
