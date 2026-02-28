@@ -6,6 +6,5 @@
     "analytics_locked": "true",
     "show_premium_analytics_upsell": "true",
     "notifications_locked": "true",
-    "show_premium_notifications_upsell": "true",
-    "show_att_screen": false
+    "show_premium_notifications_upsell": "true"
 }
