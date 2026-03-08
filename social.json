@@ -3,11 +3,14 @@
     "admob_use_test_ads": "false",
     "admob_ios_app_id": "ca-app-pub-6593799388491814~6631332460",
     "admob_ios_rewarded_ad_unit_id": "ca-app-pub-6593799388491814/5587103282",
+    "admob_ios_banner_ad_unit_id": "ca-app-pub-6593799388491814/8954477233",
     "analytics_locked": "true",
     "show_premium_analytics_upsell": "true",
     "notifications_locked": "true",
     "show_premium_notifications_upsell": "true",
     "show_att_screen": "false",
     "show_banner_ads": "false",
-    "howitworks_video_url": "https://prayscreen.app/assets/videos/howitworks_en.mp4"
+    "howitworks_video_url": "https://prayscreen.app/assets/videos/howitworks_en.mp4",
+    "saved_verses_locked": "true",                                                                                 
+    "show_premium_saved_verses_upsell": "true"
 }
